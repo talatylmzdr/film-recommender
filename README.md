@@ -37,3 +37,7 @@ film-recommender/
 ## 📊 Veri Seti
 Bu projede `movies.csv` dosyası kullanılmaktadır.  
 Kaggle'dan [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) indirilebilir.
+## 📊 Google Colab Üzerinde Çalıştır
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/talatylmzdr/film-recommender/blob/main/film_recommender_colab.ipynb)
+
